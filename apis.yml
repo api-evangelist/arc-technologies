@@ -73,12 +73,16 @@ apis:
       - type: Account Login
         description: Access is via the Arc dashboard with account credentials; public API authentication details were not found.
 common:
+  - type: DomainSecurity
+    url: security/arc-technologies-domain-security.yml
   - type: Website
     url: https://www.joinarc.com/
   - type: Pricing
     url: https://www.joinarc.com/pricing
   - type: Signup
     url: https://www.joinarc.com/
+  - type: Blog
+    url: https://www.joinarc.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
