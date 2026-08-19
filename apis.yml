@@ -31,7 +31,7 @@ tags:
 url: https://raw.githubusercontent.com/api-evangelist/arc-technologies/refs/heads/main/apis.yml
 created: '2026-05-23'
 modified: '2026-05-23'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis:
   - aid: arc-technologies:arc-platform
     name: Arc Platform
